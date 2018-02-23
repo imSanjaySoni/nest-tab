@@ -1,6 +1,18 @@
 {
   "name": "geckos-28",
-  "version": "0.1.0",
+  "author": {
+    "name": "Afiur Rahman Fahim",
+    "email": "afiur.fahim@gmail.com",
+    "url": "https://faahim.github.io"
+  },
+  "description": "Nest Tab is an extension for Chrome that replaces your new tab with a clean looking page that contain tools to help you stay productive.",
+  "homepage": "https://faahim.github.io/geckos-28/landing-page/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faahim/nest-tab.git"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "fetch-jsonp": "^1.1.3",
